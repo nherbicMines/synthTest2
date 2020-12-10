@@ -1,0 +1,11 @@
+﻿  synthTest2.cpp
+C:\Users\goofy\source\repos\synthTest2\synthTest2.cpp(54,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\goofy\source\repos\synthTest2\synthTest2.cpp(64,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\goofy\source\repos\synthTest2\synthTest2.cpp(69,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\goofy\source\repos\synthTest2\synthTest2.cpp(79,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 369 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  synthTest2.vcxproj -> C:\Users\goofy\source\repos\synthTest2\Release\synthTest2.exe
